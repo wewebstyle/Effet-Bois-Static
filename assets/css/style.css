@@ -1,0 +1,66 @@
+.evenement {
+    margin-top: 40px;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.evenement_frame {
+    background-color: #ecf0f1;
+    height: 300px;
+}
+
+.evenement_title {
+    padding-top: 15px;
+}
+
+.woocommerce {
+    margin-top: 25px;
+}
+
+.arctile_title {
+    margin-bottom: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card {
+    margin: 0 25px;
+}
+
+.card-deck {
+    margin-bottom: 15px;
+}
+
+.card-img-top {
+    height: 400px;
+}
+
+a {
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer {
+    height: 70px;
+}
+
+.footer_copyright {
+    padding-top: 5px;
+}
+
+.footer_reseaux {
+    display: flex;
+    justify-content: center;
+    font-size: 1.3em;
+}
+
+.footer_reseaux a {
+    text-decoration: none;
+    color: black;
+}
+
+.evenement_description {
+    font-family: 'Yrsa', serif;
+}
+
+i {
+    margin: 0 5px;
+}
