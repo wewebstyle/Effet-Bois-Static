@@ -64,3 +64,42 @@ footer {
 i {
     margin: 0 5px;
 }
+
+.article {
+    margin-top: 50px;
+}
+
+.panier {
+    margin-top: 50px;
+}
+
+.articleadd img {
+    height: 130px;
+    width: 90px;
+}
+
+.articleadd {
+    margin-top: 15px;
+    display: flex;
+}
+
+.articleadd h5 {
+    margin-left: 12px;
+}
+
+.articleadd_quantity{
+    position: relative;
+    top: 30px;
+    left: -270px;
+}
+
+.tags {
+    display: flex;
+    width: 30px;
+    padding: 0;
+    flex-wrap: nowrap;
+}
+
+.tag {
+    margin: 0 3px;
+}
